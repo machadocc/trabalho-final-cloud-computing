@@ -1,0 +1,12 @@
+[
+  {"id": 1, "nome": "Teclado Mecânico RGB", "categoria": "Periféricos", "preco": 349.90},
+  {"id": 2, "nome": "Mouse Optico Wireless", "categoria": "Periféricos", "preco": 199.00},
+  {"id": 3, "nome": "Monitor 24 Polegadas 144Hz", "categoria": "Monitores", "preco": 1199.00},
+  {"id": 4, "nome": "Headset Gamer 7.1", "categoria": "Áudio", "preco": 289.50},
+  {"id": 5, "nome": "Cadeira Ergonômica Office", "categoria": "Móveis", "preco": 899.00},
+  {"id": 6, "nome": "Webcam Full HD 1080p", "categoria": "Vídeo", "preco": 249.90},
+  {"id": 7, "nome": "SSD NVMe 1TB", "categoria": "Hardware", "preco": 450.00},
+  {"id": 8, "nome": "Memória RAM DDR4 16GB", "categoria": "Hardware", "preco": 320.00},
+  {"id": 9, "nome": "Placa de Vídeo RTX 4060", "categoria": "Hardware", "preco": 2100.00},
+  {"id": 10, "nome": "Processador Core i5", "categoria": "Hardware", "preco": 950.00}
+]
